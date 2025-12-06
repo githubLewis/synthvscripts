@@ -10,4 +10,4 @@ To install all scripts, go to https://github.com/githubLewis/synthvscripts, clic
 # Scripts included
 
 ## pastelyrics
-paste all your lyrics into Synthesizer, this script will take the contents of your clipboard (lyrics) and when executed, pastes the lyrics into the editor, creating notes for each lyric it detects. Lyrics are detected by a space.
+paste all your lyrics into Synthesizer, this script will take the contents of your clipboard (lyrics) and when executed, pastes the lyrics into the editor, creating notes for each lyric it detects. Lyrics are detected by a space and carriage return or line feed.
